@@ -1,0 +1,22 @@
+.text{
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 20px;
+  background-color: #066000;
+  color: #fff;
+}
+
+#box{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #f2f2f2;
+  padding: 60px;
+  font-family: Roboto;
+  font-size: 18px;
+  color: #000;
+}
+
+button, a{
+  cursor: pointer;
+}
